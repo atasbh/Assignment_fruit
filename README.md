@@ -13,7 +13,7 @@ A fruit distribution company is tasked with purchasing production sets from vari
 * Raspberries: 100 kg
 * Blackberries: 150 kg
 * Mangoes: 500 kg
-* Pineapples: 600 kg \
+* Pineapples: 600 kg
 
 
 Each supplier can produce all ten fruits, but at different prices, and each product has a different minimum order quantity. The company wishes to assign each crop to the suppliers in order to keep the total cost as low as possible.
