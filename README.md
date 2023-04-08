@@ -1,6 +1,6 @@
 # Assignment problem for a fruit distribution company
 
-![Alt text](https://github.com/atasbh/resource_constraints/blob/main/VRPTW_Hapag-Lloyd%20AG-1.png)
+![Alt text](https://github.com/atasbh/Assignment_fruit/blob/main/Assignment%20problem%20project%20(fruit%20distribution)-1.png)
 
 The Assignment problem is one of the most difficult challenges in Supply Chain Management. This can be broken down into different sections such as human resource management, task sharing, purchasing, and so on. We want to concentrate on purchasing in this section.
 
