@@ -1,5 +1,7 @@
 # Assignment problem for a fruit distribution company
 
+![Alt text](https://github.com/atasbh/resource_constraints/blob/main/VRPTW_Hapag-Lloyd%20AG-1.png)
+
 The Assignment problem is one of the most difficult challenges in Supply Chain Management. This can be broken down into different sections such as human resource management, task sharing, purchasing, and so on. We want to concentrate on purchasing in this section.
 
 A fruit distribution company is tasked with purchasing production sets from various suppliers. The company needs to purchase ten pieces of fruit (Apples, Oranges, Bananas, Grapes, Strawberries, Blueberries, Raspberries, Blackberries, Mangoes, Pineapples) and has received quotes from five different suppliers (Max_fruit, B&H, Thomas, Croper, and Wallas). The demand of each fruit for the company is as below:
